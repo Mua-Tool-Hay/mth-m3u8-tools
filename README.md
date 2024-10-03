@@ -1,1 +1,1 @@
-# mth-m3u8-tools
+# MTH M3U8 Tools
